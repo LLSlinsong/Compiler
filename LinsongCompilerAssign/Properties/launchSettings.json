@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LinsongCompilerAssign": {
+      "commandName": "Project",
+      "commandLineArgs": "test82.ada"
+    }
+  }
+}

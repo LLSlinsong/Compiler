@@ -1,0 +1,13 @@
+Lexeme:a Line of Code:2  Depth:2  Type: SymbolTable+VARIABLE Value:
+Lexeme:b Line of Code:2  Depth:2  Type: SymbolTable+VARIABLE Value:
+Lexeme:d Line of Code:2  Depth:2  Type: SymbolTable+VARIABLE Value:
+Lexeme:cc Line of Code:3  Depth:2  Type: SymbolTable+VARIABLE Value:
+
+Lexeme:fun Line of Code:2  Depth:1  Type: SymbolTable+PROCEDURE Value:
+Lexeme:a Line of Code:1  Depth:1  Type: SymbolTable+VARIABLE Value:
+Lexeme:b Line of Code:1  Depth:1  Type: SymbolTable+VARIABLE Value:
+Lexeme:d Line of Code:1  Depth:1  Type: SymbolTable+VARIABLE Value:
+
+Lexeme:three Line of Code:0  Depth:0  Type: SymbolTable+PROCEDURE Value:
+
+

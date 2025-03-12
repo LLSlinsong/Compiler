@@ -1,0 +1,16 @@
+PROCEDURE main IS
+
+PROCEDURE proc1(a : INTEGER) IS
+BEGIN
+END proc1;
+
+PROCEDURE proc2(a : FLOAT) IS
+BEGIN
+END proc2;
+
+PROCEDURE proc3(a, b : FLOAT; c, d : INTEGER; e : FLOAT) IS
+BEGIN
+END proc3;
+
+BEGIN
+END main;
